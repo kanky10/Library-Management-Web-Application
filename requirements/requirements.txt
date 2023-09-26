@@ -1,0 +1,12 @@
+#The packages require to make library management web application are given below. 
+
+ 
+Flask
+requests
+flask_mysqldb
+MySQL
+wtforms 
+datetime
+MySQLdb
+mysql.connector
+urllib
